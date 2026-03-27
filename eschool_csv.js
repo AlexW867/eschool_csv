@@ -6,6 +6,7 @@
 // @author       AlexW
 // @match        https://eschool.tp.edu.tw/*
 // @grant        none
+// @license      MIT
 // @run-at       document-end
 // ==/UserScript==
 

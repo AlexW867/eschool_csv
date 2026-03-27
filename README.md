@@ -15,7 +15,7 @@
 
 ## 安裝
 
-[點我安裝腳本](https://raw.githubusercontent.com/AlexW867/eschool_csv/refs/heads/main/eschool_csv.js)
+[greasyfork 安裝](https://greasyfork.org/zh-TW/scripts/571367)
 
 ## 個人資料保護與免責聲明
 
